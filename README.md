@@ -196,11 +196,7 @@ The **pretrained_weights** is organized as follows.
 ```
 ./pretrained_weights/
 ├── denoising_unet.pth
-├── reference_unet.pth
-├── motion_module.pth
-├── pose_encoder.pth
-├── sd-vae-ft-mse
-│   └── ...
+├── reference_une
 └── audio_processor
     └── tiny.pt
 ```
